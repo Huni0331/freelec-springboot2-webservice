@@ -1,0 +1,10 @@
+com/huni/book/springboot/web/dto/HelloResponseDtoTest.java
+ com.huni.book.springboot.web.dto.HelloResponseDtoTest
+com/huni/book/springboot/web/HelloControllerTest.java
+ com.huni.book.springboot.web.HelloControllerTest
+com/huni/book/springboot/web/IndexControllerTest.java
+ com.huni.book.springboot.web.IndexControllerTest
+com/huni/book/springboot/web/domain/posts/PostsRepositoryTest.java
+ com.huni.book.springboot.web.domain.posts.PostsRepositoryTest
+com/huni/book/springboot/web/PostsApiControllerTest.java
+ com.huni.book.springboot.web.PostsApiControllerTest
