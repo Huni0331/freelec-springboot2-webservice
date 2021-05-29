@@ -1,29 +1,53 @@
 com/huni/book/springboot/web/dto/PostsResponseDto.java
  com.huni.book.springboot.web.dto.PostsResponseDto
-com/huni/book/springboot/domain/posts/Posts.java
- com.huni.book.springboot.domain.posts.Posts
- com.huni.book.springboot.domain.posts.Posts$PostsBuilder
 com/huni/book/springboot/domain/posts/PostsRepository.java
  com.huni.book.springboot.domain.posts.PostsRepository
-com/huni/book/springboot/Application.java
- com.huni.book.springboot.Application
+com/huni/book/springboot/config/auth/dto/OAuthAttributes.java
+ com.huni.book.springboot.config.auth.dto.OAuthAttributes
+ com.huni.book.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
 com/huni/book/springboot/web/dto/PostsUpdateRequestDto.java
  com.huni.book.springboot.web.dto.PostsUpdateRequestDto
  com.huni.book.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
-com/huni/book/springboot/domain/BaseTimeEntity.java
- com.huni.book.springboot.domain.BaseTimeEntity
+com/huni/book/springboot/config/auth/SecurityConfig.java
+ com.huni.book.springboot.config.auth.SecurityConfig
+com/huni/book/springboot/config/auth/LoginUser.java
+ com.huni.book.springboot.config.auth.LoginUser
+com/huni/book/springboot/domain/user/Role.java
+ com.huni.book.springboot.domain.user.Role
+com/huni/book/springboot/domain/user/User.java
+ com.huni.book.springboot.domain.user.User
+ com.huni.book.springboot.domain.user.User$UserBuilder
 com/huni/book/springboot/web/HelloController.java
  com.huni.book.springboot.web.HelloController
-com/huni/book/springboot/web/dto/PostsListResponseDto.java
- com.huni.book.springboot.web.dto.PostsListResponseDto
 com/huni/book/springboot/web/dto/HelloResponseDto.java
  com.huni.book.springboot.web.dto.HelloResponseDto
-com/huni/book/springboot/web/dto/PostsSaveRequestDto.java
- com.huni.book.springboot.web.dto.PostsSaveRequestDto
- com.huni.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
-com/huni/book/springboot/service/posts/PostsService.java
- com.huni.book.springboot.service.posts.PostsService
 com/huni/book/springboot/web/IndexController.java
  com.huni.book.springboot.web.IndexController
 com/huni/book/springboot/web/PostsApiController.java
  com.huni.book.springboot.web.PostsApiController
+com/huni/book/springboot/domain/user/UserRepository.java
+ com.huni.book.springboot.domain.user.UserRepository
+com/huni/book/springboot/domain/posts/Posts.java
+ com.huni.book.springboot.domain.posts.Posts
+ com.huni.book.springboot.domain.posts.Posts$PostsBuilder
+com/huni/book/springboot/config/auth/LoginUserArgumentResolver.java
+ com.huni.book.springboot.config.auth.LoginUserArgumentResolver
+com/huni/book/springboot/domain/BaseTimeEntity.java
+ com.huni.book.springboot.domain.BaseTimeEntity
+com/huni/book/springboot/config/auth/dto/SessionUser.java
+ com.huni.book.springboot.config.auth.dto.SessionUser
+com/huni/book/springboot/service/posts/PostsService.java
+ com.huni.book.springboot.service.posts.PostsService
+com/huni/book/springboot/web/dto/PostsListResponseDto.java
+ com.huni.book.springboot.web.dto.PostsListResponseDto
+com/huni/book/springboot/config/WebConfig.java
+ com.huni.book.springboot.config.WebConfig
+com/huni/book/springboot/web/dto/PostsSaveRequestDto.java
+ com.huni.book.springboot.web.dto.PostsSaveRequestDto
+ com.huni.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+com/huni/book/springboot/config/auth/CustomOAuth2UserService.java
+ com.huni.book.springboot.config.auth.CustomOAuth2UserService
+com/huni/book/springboot/Application.java
+ com.huni.book.springboot.Application
+com/huni/book/springboot/config/JpaConfig.java
+ com.huni.book.springboot.config.JpaConfig
